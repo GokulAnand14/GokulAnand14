@@ -23,7 +23,3 @@ contact:    https://linkedin.com/in/gokul-anand
     <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,nextjs,tailwind,python,fastapi,postgres,docker,c,cpp,linux,git" alt="Tech Stack" />
   </a>
 </p>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
-</div>
