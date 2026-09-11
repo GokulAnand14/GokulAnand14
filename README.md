@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=180&section=header&text=Gokul%20Anand&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+%26+Systems+Builder;Crafting+with+Rust%2C+TypeScript+%26+React;Turning+Complex+Problems+into+Clean+Tools;Always+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Systems+Tinkerer;17-Year-Old+Builder;Crafting+with+Rust%2C+Tauri+%26+TypeScript;Building+excalideck;Turning+Ideas+into+Shipped+Software." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -12,6 +12,22 @@
 </p>
 
 </div>
+
+---
+
+### 💻 Terminal Bio
+
+```yaml
+gokul@workspace:~$ fastfetch --config profile.yml
+─────────────────────────────────────────────────────────────────────────────
+User:         Gokul Anand R
+Uptime:       17 Years (running since 2009)
+Role:         Full-Stack & Systems Tinkerer
+Building:     excalideck (Native Excalidraw + Obsidian vault system & plugins)
+Stack:        Rust, Tauri, TypeScript, Next.js, Python, Linux
+Perk:         Not bad at multiple skills 🛠️
+─────────────────────────────────────────────────────────────────────────────
+```
 
 ---
 
@@ -29,6 +45,14 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GokulAnand14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="95%" />
 </div>
 
 ---
